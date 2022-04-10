@@ -3,14 +3,10 @@
 
 This plugin is basically create elementor widget. The plugin is about set & design HTML Structure of Post. Admin can fetch any of the posts and able to set the UI on its own way.
 
+
 ## Demo
 
-Insert gif or link to demo
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
+- [Click me to view demo](https://youtu.be/022ayFk5ijQ)
 
 
 ## Prerequisites
