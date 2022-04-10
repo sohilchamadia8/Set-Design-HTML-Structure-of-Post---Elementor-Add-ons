@@ -29,6 +29,12 @@ show the particular data of the posts.
 ```bash
 {post_excerpt}
 ```
+
+- To show post feature image use
+```bash
+{post_image}
+```
+
 - To show post date use
 ```bash
 {post_date}
