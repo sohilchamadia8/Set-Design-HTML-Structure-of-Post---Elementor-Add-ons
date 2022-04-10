@@ -6,7 +6,7 @@ This plugin is basically create elementor widget. The plugin is about set & desi
 
 ## Demo
 
-- [Click me to view demo](https://youtu.be/022ayFk5ijQ)
+- [Click me to view demo](https://youtu.be/qPK_nVzHP0c)
 
 
 ## Prerequisites
