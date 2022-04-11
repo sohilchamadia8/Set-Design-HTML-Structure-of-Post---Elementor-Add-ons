@@ -42,6 +42,10 @@ show the particular data of the posts.
 {post_date, F j, Y, g:i a }
 ```
 
+- To get permalink of the post use
+```bash
+{post_permalink}
+```
 
 ## Features
 - Fetch the Post & show post data using expressions
