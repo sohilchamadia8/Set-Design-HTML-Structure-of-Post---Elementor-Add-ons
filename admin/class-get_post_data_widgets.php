@@ -90,7 +90,7 @@ class Get_Post_Data_Widgets extends \Elementor\Widget_Base {
         $settings = $this->get_settings_for_display();
       
         $post_array = array(
-            'numberposts'      => 5,
+            'numberposts'      => 3,
             'orderby'          => 'date',
             'order'            => 'DESC',
             'post_type'        => $settings['post-name'],
